@@ -14,6 +14,8 @@
 
 @implementation ViewController
 
+//API KEY: 205051100a93321f3cf30f1a46d14881
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
@@ -24,4 +26,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)weatherByLocation:(UIButton *)sender {
+
+    
+    
+}
 @end
